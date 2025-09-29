@@ -7,10 +7,10 @@
 
 # Redes Sociais
 <div align="center">
-  <a href="https://giovannipereiradev.github.io/my-portifolio/" target="_blank">
+  <a href="https://giovannitavares.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/giovanni-pereira-tavares/" target="_blank">
+  <a href="https://linkedin.giovannitavares.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
